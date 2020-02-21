@@ -9,7 +9,7 @@ bin-release/
 
 # Executables
 *.swf
-*.air
+*.air.air appropriate gate
 *.ipa
 *.apk
 
